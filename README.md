@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @smahapa3
-- 👀 I’m interested in the use of AI in content moderation
+- 👀 I’m interested in the use of AI in content moderation, p2p lending and cryptocurrency 
 - 🌱 I’m currently trying to learn coding in R and Python
 - 📫 How to reach me : snehamahapatra08@gmail.com
 
